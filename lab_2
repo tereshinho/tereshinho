@@ -1,5 +1,0 @@
-mkdir new_folder
-touch new_folder/.gitkeep
-git add new_folder/.gitkeep
-git commit -m "Створено папку new_folder"
-git push origin main
